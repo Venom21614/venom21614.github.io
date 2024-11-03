@@ -1,0 +1,34 @@
+{
+  "name": "Medienapplikationen - Übung",
+  "short_name": "Kevin-Rinaldo Weiß Homepage",
+  "start_url": "/~kevwe/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+  "Scope": "/",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "display_override": ["window-controls-overlay"],
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
+  "icons": [
+    {
+      "src": "single-page-icon.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "1024bild.jpeg",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "next_placeholder.jpeg",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
